@@ -23,6 +23,8 @@
 		try editing <strong>src/routes/+page.svelte</strong>
 	</h2>
 
+	<h3>你好</h3>
+
 	<Counter />
 </section>
 
